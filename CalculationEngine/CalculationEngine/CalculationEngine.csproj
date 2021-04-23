@@ -12,10 +12,10 @@
   </ItemGroup>
 
  <PropertyGroup>
-    <PackageId>CalculationEngine</PackageId>
+    <PackageId>CalEng</PackageId>
     <Authors>Venu</Authors>
     <Company>AadyaIT</Company>
-    <PackageDescription>Calculation Engine</PackageDescription>
+    <PackageDescription>Calculation</PackageDescription>
     <RepositoryUrl>https://github.com/venusiddoji/lltry</RepositoryUrl>
   </PropertyGroup>
 </Project>
